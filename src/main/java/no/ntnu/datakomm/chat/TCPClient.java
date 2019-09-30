@@ -129,6 +129,7 @@ public class TCPClient {
         // client and server exchange for user listing.
         if (isConnectionActive()) {
             this.sendCommand("users");
+            asdfasdf
         }
     }
 
